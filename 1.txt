@@ -1,3 +1,2 @@
 Notice: This is a test!
-<<<<<<< HEAD
-This is B's modify
+This is John's modify
