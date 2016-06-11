@@ -1,0 +1,26 @@
+
+body {
+	background: url("images/background.jpg");
+	background-size: cover;
+}
+
+#container {
+  padding-top:50px;
+  margin:0 auto;
+  width: 480px;
+}
+
+#notice {
+	padding-top: 10px;
+	font-size: 24px;
+	font-family: "黑体";
+	color: white;
+}
+
+canvas {
+  background-color:black;
+
+}
+span {
+	color: yellow;
+}
